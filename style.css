@@ -1,0 +1,63 @@
+body{
+    background: #ffc89e;
+    font-family: 'Indie Flower', cursive;
+}
+.heading{
+background: #8320c9;
+color: #e9c9ff;
+}
+
+.heading img{
+    width:100px;
+    border: black 2px ridge;
+    border-radius: 100%;
+}
+.main_div{
+    background: tomato;
+    margin-top: 15px;
+    padding: 10px;
+    border: thin navy ridge;
+    border-radius: 3%;
+}
+.main_div label{
+    background: navy;
+    color: #e9c9ff;
+    padding: 6px;
+    width: 310px;
+    margin-bottom: 0px;
+    box-shadow: 20px 8px 35px darkred;
+}
+#camera, #snapshot{
+    border: thin navy ridge;
+    width: 310px;
+    height: 300px;
+    box-shadow:  20px 8px 35px darkred;
+}
+.main_div button{
+    margin-top: 20px;
+    font-size: large;
+    box-shadow:  20px 2px 35px darkred;
+    border: ridge navy thin;
+}
+.Item_div img{
+    width: 70px;
+}
+.Item_div h4{
+background:#8320c9 ;
+border-radius: 20px;
+padding: 5px;
+box-shadow:  20px 2px 35px darkred;
+}
+.copy_right_footer{
+    position: fixed;
+    color: blanchedalmond;
+    bottom: 0;
+    background-color: crimson;
+    text-align: center;
+    border: navy 2px ridge;
+    width: 100%;
+    line-height: 3;
+}
+.Item_div{
+    margin-bottom: 100px;
+}
